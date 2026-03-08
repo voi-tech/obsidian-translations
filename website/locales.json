@@ -5,6 +5,7 @@
 		"fr",
 		"ja",
 		"ko",
+		"pl",
 		"zh"
 	],
 	"localeLabels": {
@@ -12,6 +13,7 @@
 		"fr": "Français",
 		"ja": "日本語",
 		"ko": "한국어",
+		"pl": "Polski"
 		"zh": "简体中文"
 	}
 }
